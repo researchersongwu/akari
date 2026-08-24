@@ -19,8 +19,8 @@ const EXTENSION_LANGUAGE_MAP: Record<string, string> = {
   xml: 'xml',
   svg: 'xml',
   vue: 'xml',
-  // markdown 不高亮：GitHub 配色中 hljs-section（深蓝）/ hljs-comment（灰）在 diff
-  // 面板上对比度过低看不清，且 md 语法高亮对审查 diff 收益很小，按纯文本渲染
+  md: 'markdown',
+  markdown: 'markdown',
   py: 'python',
   rs: 'rust',
   go: 'go',

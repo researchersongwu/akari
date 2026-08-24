@@ -388,9 +388,11 @@
   color: #f2cc60;
 }
 .dark .hljs-emphasis {
+  color: #c9d1d9;
   font-style: italic;
 }
 .dark .hljs-strong {
+  color: #c9d1d9;
   font-weight: bold;
 }
 .dark .hljs-addition {
